@@ -4,7 +4,7 @@
 {{ define "content" }}
   <section class="container list">
     <h1 class="title">{{ .Title }}</h1>
-    <p>This page is the home to both long(er)-form blog posts (which are collected separately <a href="https://spencergreenhalgh.com/categories/macro/">here</a> and have <a href="https://spencergreenhalgh.com/categories/macro/index.xml">their own RSS feed) and to microposts (~280 characters) that get forwarded to my <a href="https://twitter.com/spgreenhalgh">Twitter</a> and <a href="https://micro.blog/spgreenhalgh">Micro.blog</a> accounts (and can also be read <a href="https://spencergreenhalgh.com/categories/micro/">here</a> or followed <a href="https://spencergreenhalgh.com/categories/micro/index.xml">here</a>). You can read more about the reasoning behind my web presence on my <a href="https://spencergreenhalgh.com/about/">About page</a>.</p>
+    <p>This page is the home to both long(er)-form blog posts (which are collected separately <a href="https://spencergreenhalgh.com/categories/macro/">here</a> and have <a href="https://spencergreenhalgh.com/categories/macro/index.xml">their own RSS feed</a>) and to microposts (~280 characters) that get forwarded to my <a href="https://twitter.com/spgreenhalgh">Twitter</a> and <a href="https://micro.blog/spgreenhalgh">Micro.blog</a> accounts (and can also be read <a href="https://spencergreenhalgh.com/categories/micro/">here</a> or followed <a href="https://spencergreenhalgh.com/categories/micro/index.xml">here</a>). You can read more about the reasoning behind my web presence on my <a href="https://spencergreenhalgh.com/about/">About page</a>.</p>
     <ul>
       {{- range .Paginator.Pages -}}
         {{- .Render "li" -}}

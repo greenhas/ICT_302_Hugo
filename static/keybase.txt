@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/spgreenhalgh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://spencergreenhalgh.com
+  * I am spgreenhalgh (https://keybase.io/spgreenhalgh) on keybase.
+  * I have a public key ASB98A-xrciBliZ8kun58GdWbICQtg0LoH8ITG2i0L1g6Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207df00fb1adc88196267c92e9f9f067566c8090b60d0ba07f084c6da2d0bd60e90a",
+      "host": "keybase.io",
+      "kid": "01207df00fb1adc88196267c92e9f9f067566c8090b60d0ba07f084c6da2d0bd60e90a",
+      "uid": "14cbf2e334cce11e3d1c5d97b4ab8819",
+      "username": "spgreenhalgh"
+    },
+    "merkle_root": {
+      "ctime": 1547222451,
+      "hash": "ce51c67279c71bf4d2a17618f7fdabf6bc0af0150cf68004d7a2bf3c8e7f5e4d4477abd64e6cff89a2b97aeb6cbf061b4f97e1227c454cf31c254dcb2cc52142",
+      "hash_meta": "4935c1ec38b2600cf1b9690387bb1c7ba943ce442a352c90bc7bc5bc70f8fcd2",
+      "seqno": 4345840
+    },
+    "service": {
+      "entropy": "FUBTah+M9ulnvAapJOLZ90XF",
+      "hostname": "spencergreenhalgh.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.6"
+  },
+  "ctime": 1547222464,
+  "expire_in": 504576000,
+  "prev": "b2d3727ec7a6a83bdbd94423dcf94f726f255b5efa5f55902b70f4e80c190d86",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgffAPsa3IgZYmfJLp+fBnVmyAkLYNC6B/CExtotC9YOkKp3BheWxvYWTESpcCF8QgstNyfsemqDvb2UQj3PlPcm8lW176X1WQK3D06AwZDYbEIMOAwX9PKHU5NaQrDZ6f+AqkWJ6pSNF+t6UNt+BjsumhAgHCo3NpZ8RAbuYMd2XMParOvdpIzHRvCpj5RvzVQWA59VDCT2TVThrJD7+Po4rv0AcuvyF4K+BXizuO2CZe5I5IuLAfl0wvD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOGydVCmgG9B+YWjF57kLtA6LCUKxQBNznumj00Zvulxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spgreenhalgh
+
+==================================================================

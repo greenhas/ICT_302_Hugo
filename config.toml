@@ -1,35 +1,95 @@
-baseURL = "https://unruffled-kepler-b32175.netlify.com"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+baseurl = "https://spencergreenhalgh.com/"
+title = "Spencer Greenhalgh, PhD"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
-[build]
-publish = "public"
-command = "hugo --gc --minify"
+paginate = 20
+canonifyurls = true
 
-[context.production.environment]
-HUGO_VERSION = "0.56.3"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-[context.split1]
-command = "hugo --gc --minify --enableGitInfo"
+# disqusShortname = "yourdiscussshortname"
 
-[context.split1.environment]
-HUGO_VERSION = "0.56.3"
-HUGO_ENV = "production"
+[params]
+    author = "Spencer Greenhalgh, PhD"
+    info = "Assistant Professor of Information Communication Technology"
+    description = "Spencer Greenhalgh's personal website"
+    keywords = "blog,personal"
+    avatarurl = "images/SPG_3.jpg"
 
-[context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
 
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.56.3"
+    footercontent = ""
 
-[context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+    hidecredits = false
+    hidecopyright = false
 
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.56.3"
+    rtl = false
 
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope fa-2x"
+    weight = 1
+    url = "mailto:spencer.greenhalgh@uky.edu"
+[[params.social]]
+    name = "University of Kentucky homepage"
+    icon = "fas fa-university fa-2x"
+    weight = 2
+    url = "http://ci.uky.edu/sis/users/spencer-greenhalgh"
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss fa-2x"
+    weight = 3
+    url = "/categories/macro/index.xml"
+[[params.social]]
+    name = "Google Scholar"
+    icon = "fas fa-graduation-cap fa-2x"
+    weight = 4
+    url = "https://scholar.google.com/citations?user=o3JQjpcAAAAJ&hl=en&oi=ao"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 5
+    url = "https://github.com/greenhas/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 6
+    url = "https://twitter.com/spgreenhalgh/"
+[[params.social]]
+    name = "Micro.blog"
+    icon = "fas fa-star fa-2x"
+    weight = 7
+    url = "https://micro.blog/spgreenhalgh/"
+[[params.social]]
+    name = "Keybase"
+    icon = "fab fa-keybase fa-2x"
+    weight = 8
+    url = "https://keybase.io/spgreenhalgh"
+[[params.social]]
+    name = "Impodster Syndrome podcast"
+    icon = "fas fa-podcast fa-2x"
+    weight = 9
+    url = "http://impodstersyndrome.libsyn.com/"
+
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "CV"
+    weight = 2
+    url = "/cv.html"
+[[menu.main]]
+   name = "Blog(s)"
+   weight = 3
+   url  = "/posts/"

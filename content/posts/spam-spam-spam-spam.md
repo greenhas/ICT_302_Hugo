@@ -1,0 +1,16 @@
++++ 
+draft = false
+date = 2019-04-04T10:15:00-04:00
+title = "New Presentation: Implications of Spam for Educational Twitter Researchers"
+slug = "spam-spam-spam-spam" 
+tags = ["social media", "Twitter", "presentations", "research", "research methods", "spam", "communities", "spaces"]
+categories = ["macro"]
++++
+
+Last month, I missed the Society for Information Technology and Teacher Education International Conference after five years of attending. I'm hoping to be back next year, as I found myself missing a lot of my SITE colleagues and friends, especially my friends from Michigan State. In my absence this year, my colleagues [Jeff Carpenter](https://twitter.com/jeffpcarpenter), [Matt Koehler](http://www.matt-koehler.com/), and [Bret Staudt Willet](http://bretsw.com/) presented on some work that we've started together on the methodological considerations and challenges of spam for those of us who study educational communities on Twitter. You can find the [slides](http://bit.ly/sitespamspam) here if you're interested.
+
+This is a subject that's been on my mind for a long time. Central to my work over the past three or four years has been the assumption that the Twitter hashtag serves as a sort of portal into a shared social space. However, there's no denying that these portals have absurdly low barriers for entry, and that has some important implications for both the participants in those spaces and the researchers who are trying to better understand them. The examples of spam in slides 6-8 (all of which have been drawn from data from previous research projects) show how frequent and diverse this phenomenon has been—and they only scratch the surface of what I've seen as I sift through education-related tweets.
+
+Furthermore, these examples are only the obvious ones. While working on this project with Jeff, Matt, and Bret, I discovered [Brunton's (2013)](https://mitpress.mit.edu/books/spam) book on spam, in which he opposes the idea of spam to the idea of community. In short, online communities use technologies to gather, but spammers can then use those same technologies to gain an audience for their messages, which aren't those valued by the communities. I've repeatedly privileged a framework of "spaces" (rather than "communities"), largely because I think thinking of hashtags in terms of spaces better accounts for what happens therein better than thinking of them in terms of sommunities. That is, while I acknowledge that "communities" can—and do—exist within hashtags, they're usually ambiguous and hard to define. Brunton tells us that the way that we define a community implicitly defines what spam is, so the ambiguity of "community" within a hashtag also implies an ambiguity of "spam." As a result, I see spam as a central phenomenon to consider as I continue to wrestle with how to describe social structures mediated by hashtags.
+
+There's a lot more work to be done in this area. I'm grateful that Jeff, Matt, and Bret have allowed me to tag along with this project, and I couldn't think of a better group to continue thinking about spam with.

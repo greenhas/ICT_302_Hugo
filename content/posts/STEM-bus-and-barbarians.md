@@ -1,0 +1,29 @@
++++
+draft = false
+date = 2019-05-24T11:50:00-04:00
+title = "STEM Bus and Barbarians"
+slug = "STEM-bus-and-barbarians" 
+tags = ["language education", "parenting", "STEM", "humanities", "science"]
+categories = ["macro"]
++++
+Last weekend, I went with my family to a local YMCA for their "Family Field Day." While the bounce houses were probably the highlight of the afternoon, my daughter also appreciated visiting Fayette County Public Schools' [STEM Bus](https://www.fcps.net/site/default.aspx?PageType=3&DomainID=4&ModuleInstanceID=710&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=32184&PageID=1), which included an inflatable dinosaur, several sets of VR goggles, robots, and plenty of other fun stuff. I'm glad that FCPS is making an effort to make STEM accessible to kids, even if they're as young as my daughter—as she gets older, I want to make sure that she knows that the STEM fields are viable options for her academic and career choices, and I'm very happy that FCPS is going to back me up on this. 
+
+However, my current concern for my daughter's future actually has nothing to do with STEM—it has more to do with barbarians. Because I'm a former French teacher, it shouldn't be any surprise that we have a lot of French-language kids books around the house. However, I'm apparently not a very good former French teacher, because in recent weeks, my daughter has taken to throwing a fit if I try to read any of them to her. A favorite phrase is "You can't read in French! You have to read in English!" To be honest, this is as understandable as it is disappointing: She's old enough that her grasp on English is getting pretty good, and it must feel frustrating for me to try to read to her in a language that she doesn't have a good grasp on (which, again, is due to my previous failures as a bilingual parent). 
+
+Where do barbarians fit into this? Well, "barbarian" has one of my favorite (folk?) etymologies: The word allegedly derives from the onomatopeia "bar, bar, bar," which the ancient Greeks used to represent foreign languages which they couldn't understand (for a more fun take on this, consider "[Prisencolinensinainciusol](https://www.youtube.com/watch?v=VuuvwXSK8mU)", a masterpiece of gibbersih by an Italian singer whose goal was to represent what American music sounds like to Italians). Indeed, the [Wikipedia article](https://en.wikipedia.org/wiki/Barbarian#Etymology) on the subject suggests that the word is etymologically related to terms in various languages related to stammering, babbling, or stuttering. 
+
+However, that's not the first thing that anyone thinks of when they hear the word "barbarian." For ancient Greeks, modern Anglophones, and [Dungeons & Dragons players](https://www.dndbeyond.com/classes/barbarian) alike, to be a barbarian is to be uncivilized, primitive, wild, and savage. As disconcerting as this implicit connection between "another language" and "savage primitive" is on a broader cultural level, it's especially concerting for me as a parent. It's far too early in my daughter's life for me to allow myself a moral panic, but I can't deny that my daughter's insistence that we not read French books together strikes me as uncomfortably close to "we speak English in this country," which is uncomfortably close to, well, [Donald J. Trump](https://abcnews.go.com/Politics/donald-trump-advises-jeb-bush-set-speaking-english/story?id=33487506).
+ 
+In fact, although I've been advocating for the need to preserve language—and humanities—education in the face of growing emphasis on STEM since long before he was elected, I've found the current President of the United States to be an unwelcome-but-powerful support for my arguments. Much of the implicit or explicit rhetoric about STEM education centers on economic benefits and American competitivity—if the current presidency has taught us anything, it's what the world looks like when we fixate on goals like that at the expense of cultural awareness. I don't know that language education will turn students into fluent French, Spanish, Mandarin, or [Cherokee](https://en.wikipedia.org/wiki/Cherokee_language#Education) speakers, but I do believe that language learning plays an important role in a broader humanities education that can introduce students to the importance of understanding, appreciating, and valuing other cultures, perspectives, and walks of life. 
+
+Fayette County Public Schools is committed to introducing students to STEM, and for that I applaud them. However, like many others, [this district](https://www.fcps.net/site/default.aspx?PageType=3&DomainID=4&ModuleInstanceID=710&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=32184&PageID=1):
+
+> supports and coaches classroom teachers to see their various subjects through the STEM lens
+
+and sees STEM as:
+
+> not just a fancy acronym that is meant to be taught independently from all other disciplines ... It is a mindset – a way to see the world and solve the problems we may face in any area.
+
+This approach to STEM risks aggravating the barbarian problem by making STEM a default way of operating in schools and crowding out other important mindsets. I'm waiting for the day that FCPS secures the grant money for a humanities bus that introduces students at local events to people, languages, and cultures so that they learn to appreciate these things at a young age. I'm waiting for the day that FCPS asks biology and computer science teachers to see their various subjects through social and cultural lenses. I'm waiting for the day that FCPS sees the humanities not just as core classes that students have to get through but as "a way to see the world and solve problems we may face." 
+
+And, in the meantime, I'm going to have to figure out how to invite my daughter to appreciate French a little bit more.

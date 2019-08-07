@@ -1,0 +1,14 @@
+body.rtl {
+  direction: rtl;
+
+  pre {
+    direction: ltr;
+  }
+
+  blockquote {
+    border-left: none;
+    border-right: 2px solid $alt-bg-color;
+    padding-left: 0;
+    padding-right: 1.6rem;
+  }
+}

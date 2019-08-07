@@ -1,0 +1,1 @@
++++draft = falsedate = 2019-05-20T21:10:22-04:00title = "Learning that you can request article PDFs through UK’s interlibrary loan has been a GAMECHANGER."slug = "2019-05-20-Learning-that"tags = []categories = ["micro"]+++Learning that you can request article PDFs through UK’s interlibrary loan has been a GAMECHANGER.

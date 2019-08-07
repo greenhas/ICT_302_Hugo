@@ -1,0 +1,1 @@
++++draft = falsedate = 2019-03-11T09:57:05-04:00title = "Next flight has no headrests, which is way more comfortable (for me, at least)."slug = "2019-03-11-Next-flight"tags = []categories = ["micro"]+++Next flight has no headrests, which is way more comfortable (for me, at least).

@@ -1,6 +1,6 @@
 baseurl = "https://unruffled-kepler-b32175.netlify.com/"
 title = "Spencer Greenhalgh, PhD"
-theme = "hugo-academic"
+theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 

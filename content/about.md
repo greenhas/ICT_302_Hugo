@@ -8,7 +8,7 @@ draft: false
 
 You can learn more about my work on my [CV](https://spencergreenhalgh.com/cv/), and more about my "origin story" further on down this page. I am active in the Association for Educational Communications and Technology. 
 
-Outside of work, I enjoy bike commuting, running (when biking isn't enough), going to the library (I read a lot of books and comics), playing games (both analog and digital), and—most of all—spending time with my wife and daughter.
+Outside of work, I enjoy nothing. My life is work.
 
 # About My Web Presence
 

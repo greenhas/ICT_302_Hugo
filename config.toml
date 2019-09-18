@@ -50,16 +50,6 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "/categories/macro/index.xml"
 [[params.social]]
-    name = "Google Scholar"
-    icon = "fas fa-graduation-cap fa-2x"
-    weight = 4
-    url = "https://scholar.google.com/citations?user=o3JQjpcAAAAJ&hl=en&oi=ao"
-[[params.social]]
-    name = "Github"
-    icon = "fab fa-github fa-2x"
-    weight = 5
-    url = "https://github.com/greenhas/"
-[[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 6

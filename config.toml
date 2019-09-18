@@ -1,4 +1,4 @@
-baseurl = "https://unruffled-kepler-b32175.netlify.com/"
+baseurl = "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/03/13002103/Joe-Rogan.png"
 title = "Spencer Greenhalgh, PhD in Memes"
 theme = "hugo-coder"
 languagecode = "en"
@@ -13,19 +13,13 @@ pygmentscodefencesguesssyntax = true
 
 # disqusShortname = "yourdiscussshortname"
 
-<style>
-body {
-  background-color: darkmagenta;
-}
-</style>
-
 [params]
     body_classes = "Georgia"
     author = "Spencer Greenhalgh, PhD in Memes"
-    info = "Assistant Professor of Tendie Slaying and hardcore raccoon enthusiast"
+    info = "Assistant Professor of Tendie Slaying. I always re-rack at the gym, which I vistit daily"
     description = "Spencer Greenhalgh's sick meme page"
     keywords = "blog,personal"
-    avatarurl = "https://raw.githubusercontent.com/greenhas/ICT_302_Hugo/master/public/images/SPG_3.jpg"
+    avatarurl = "https://cdn.discordapp.com/attachments/459535691664064515/621423408168697866/HuXFGCH5_400x400.jpg"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 

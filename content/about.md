@@ -10,7 +10,7 @@ You can learn more about my work on my [CV](https://spencergreenhalgh.com/cv/), 
 
 Outside of work, I enjoy nothing. My life is work.
 
-# About My Web Presence
+# Woah What A Cool Title!!!
 
 This website is an effort to keep my web presence under my control as much as possible. I'm a big fan of WordPress, but eventually decided I could learn more, pay less, and better understand how my data was organized by running this as a static site with the help of [Hugo](https://gohugo.io/), [Netlify](https://www.netlify.com/), and [Hover](https://www.hover.com). My [home page](https://spencergreenhalgh.com/) links to some of the other places where I'm active on the web. However, I try to keep up [longer-form blogging](https://spencergreenhalgh.com/categories/macro/) on this website to share important ideas—these posts have their own RSS feed [here](https://spencergreenhalgh.com/categories/macro/index.xml) and are usually pushed out to these other places.
 

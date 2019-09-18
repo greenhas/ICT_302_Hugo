@@ -19,7 +19,7 @@ pygmentscodefencesguesssyntax = true
     info = "Assistant Professor of Tendie Slaying"
     description = "Spencer Greenhalgh's sick meme page"
     keywords = "blog,personal"
-    avatarurl = "/images/SPG_3.jpg"
+    avatarurl = "https://raw.githubusercontent.com/greenhas/ICT_302_Hugo/master/public/images/SPG_3.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"

@@ -10,6 +10,9 @@ You can learn more about my work on my [CV](https://spencergreenhalgh.com/cv/), 
 
 Outside of work, I enjoy nothing. My life is work.
 
+<img src= "http://getwallpapers.com/wallpaper/full/d/6/f/639878.jpg" height = 250>
+
+
 ### Some people call me a savage !
 
 # Woah What A Cool Title!!!

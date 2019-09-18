@@ -19,7 +19,7 @@ pygmentscodefencesguesssyntax = true
     info = "Assistant Professor of Information Communication Technology"
     description = "Spencer Greenhalgh's personal website"
     keywords = "blog,personal"
-    avatarurl = "images/SPG_3.jpg"
+    avatarurl = "https://cdn.discordapp.com/attachments/459535691664064515/621444045922631690/thumb_have-i-posted-this-yet-43353059.png"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"

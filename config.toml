@@ -1,5 +1,5 @@
 baseurl = "https://unruffled-kepler-b32175.netlify.com/"
-title = "Spencer Greenhalgh, PhD"
+title = "Spencer Greenhalgh, PhD in Memes"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,12 +14,12 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    body_classes = "comic sans"
+    body_classes = "Droid Sans"
     author = "Spencer Greenhalgh, PhD"
     info = "Assistant Professor of Information Communication Technology"
     description = "Spencer Greenhalgh's personal website"
     keywords = "blog,personal"
-    avatarurl = "https://imgur.com/iJZW06u"
+    avatarurl = "https://cdn.discordapp.com/attachments/459535691664064515/621444045922631690/thumb_have-i-posted-this-yet-43353059.png"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"

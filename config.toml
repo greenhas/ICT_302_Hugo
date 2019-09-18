@@ -14,10 +14,10 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    body_classes = "Droid Sans"
-    author = "Spencer Greenhalgh, PhD"
-    info = "Assistant Professor of Information Communication Technology"
-    description = "Spencer Greenhalgh's personal website"
+    body_classes = "Comic Sans"
+    author = "Spencer Greenhalgh, PhD in Memes"
+    info = "Assistant Professor of Tendie Slaying"
+    description = "Spencer Greenhalgh's sick meme page"
     keywords = "blog,personal"
     avatarurl = "https://cdn.discordapp.com/attachments/459535691664064515/621444045922631690/thumb_have-i-posted-this-yet-43353059.png"
 

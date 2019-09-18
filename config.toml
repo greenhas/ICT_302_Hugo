@@ -84,12 +84,12 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
     name = "About"
     weight = 1
-    url = "/about/"
+    url = "https://unruffled-kepler-b32175.netlify.com/about/"
 [[menu.main]]
     name = "CV"
     weight = 2
-    url = "/cv.html"
+    url = "https://unruffled-kepler-b32175.netlify.com/cv.html"
 [[menu.main]]
    name = "Blog(s)"
    weight = 3
-   url  = "/posts/"
+   url  = "https://unruffled-kepler-b32175.netlify.com/posts/"

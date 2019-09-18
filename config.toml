@@ -53,7 +53,7 @@ pygmentscodefencesguesssyntax = true
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 6
-    url = "https://twitter.com/spgreenhalgh/"
+    url = "https://twitter.com/chrisdelia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
 [[params.social]]
     name = "Micro.blog"
     icon = "fas fa-star fa-2x"

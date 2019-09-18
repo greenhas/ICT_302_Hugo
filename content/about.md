@@ -5,7 +5,7 @@ draft: false
 ---
 p {
   font-family: "Comic Sans MS", cursive, sans-serif;
-
+}
 # About Me
 
 You can learn more about my work on my [CV](https://spencergreenhalgh.com/cv/), and more about my "origin story" further on down this page. I am active in the Association for Educational Communications and Technology. 

@@ -14,6 +14,8 @@ Outside of work, I enjoy nothing. My life is work.
 
 # Woah What A Cool Title!!!
 
+Good place for Audio drama : https://www.pbs.org/show/theater-mind-radio-drama/
+
 This website is an effort to keep my web presence under my control as much as possible. I'm a big fan of WordPress, but eventually decided I could learn more, pay less, and better understand how my data was organized by running this as a static site with the help of [Hugo](https://gohugo.io/), [Netlify](https://www.netlify.com/), and [Hover](https://www.hover.com). My [home page](https://spencergreenhalgh.com/) links to some of the other places where I'm active on the web. However, I try to keep up [longer-form blogging](https://spencergreenhalgh.com/categories/macro/) on this website to share important ideas—these posts have their own RSS feed [here](https://spencergreenhalgh.com/categories/macro/index.xml) and are usually pushed out to these other places.
 
 Some notes about those other places: After months and months of hemming and hawing, I finally ditched Facebook in December 2018 (and am admittedly surprised by how little I miss it). Twitter is too professionally valuable to me to give up on, but I regularly use [Jumbo Privacy](https://www.jumboprivacy.com/) to purge old tweets, and try to do most of my microblogging by forwarding [microposts from this website](https://spencergreenhalgh.com/categories/micro/) to Twitter and to [Micro.blog](https://micro.blog/), a friendly, RSS-based social media platform that I would love to see get more traction among academics; you can also subscribe directly to my microposts through [this RSS feed](https://spencergreenhalgh.com/categories/micro/).

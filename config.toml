@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    body_classes = "Comic Sans"
+    body_classes = "Georgia"
     author = "Spencer Greenhalgh, PhD in Memes"
     info = "Assistant Professor of Tendie Slaying"
     description = "Spencer Greenhalgh's sick meme page"
@@ -34,11 +34,6 @@ pygmentscodefencesguesssyntax = true
     custom_css = ["css/custom.css"]
 
 # Social links
-[[params.social]]
-    name = "Email"
-    icon = "fas fa-envelope fa-2x"
-    weight = 1
-    url = "mailto:spencer.greenhalgh@uky.edu"
 [[params.social]]
     name = "University of Kentucky homepage"
     icon = "fas fa-university fa-2x"
@@ -74,22 +69,17 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-keybase fa-2x"
     weight = 8
     url = "https://keybase.io/spgreenhalgh"
-[[params.social]]
-    name = "Impodster Syndrome podcast"
-    icon = "fas fa-podcast fa-2x"
-    weight = 9
-    url = "http://impodstersyndrome.libsyn.com/"
 
 # Menu links
 [[menu.main]]
-    name = "About"
+    name = "Check out me"
     weight = 1
     url = "https://unruffled-kepler-b32175.netlify.com/about/"
 [[menu.main]]
-    name = "CV"
+    name = "Me again"
     weight = 2
     url = "https://unruffled-kepler-b32175.netlify.com/cv.html"
 [[menu.main]]
-   name = "Blog(s)"
+   name = "Me in blog form"
    weight = 3
    url  = "https://unruffled-kepler-b32175.netlify.com/posts/"

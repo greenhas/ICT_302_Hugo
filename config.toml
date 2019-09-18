@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    body_classes = "comic sans"
+    body_classes = "helvetica"
     author = "Spencer Greenhalgh, PhD"
     info = "Assistant Professor of Information Communication Technology"
     description = "Spencer Greenhalgh's personal website"

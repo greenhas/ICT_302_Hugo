@@ -14,11 +14,12 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
+    body_classes = "comic sans"
     author = "Spencer Greenhalgh, PhD"
     info = "Assistant Professor of Information Communication Technology"
     description = "Spencer Greenhalgh's personal website"
     keywords = "blog,personal"
-    avatarurl = "images/SPG_3.jpg"
+    avatarurl = "https://imgur.com/iJZW06u"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
@@ -43,7 +44,7 @@ pygmentscodefencesguesssyntax = true
     name = "University of Kentucky homepage"
     icon = "fas fa-university fa-2x"
     weight = 2
-    url = "http://ci.uky.edu/sis/users/spencer-greenhalgh"
+    url = "https://ci.uky.edu/sis/users/sherali-zeadally"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss fa-2x"

@@ -8,6 +8,8 @@ draft: false
 
 You can learn more about my work on my [CV](https://spencergreenhalgh.com/cv/), and more about my "origin story" further on down this page. I am active in the Association for Educational Communications and Technology.
 
+<img src= "http://getwallpapers.com/wallpaper/full/d/6/f/639878.jpg" height = 250>
+
 Outside of work, I enjoy nothing. My life is work.
 
 ### Some people call me a savage !

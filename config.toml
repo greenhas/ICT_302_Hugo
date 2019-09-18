@@ -13,6 +13,12 @@ pygmentscodefencesguesssyntax = true
 
 # disqusShortname = "yourdiscussshortname"
 
+<style>
+body {
+  background-color: darkmagenta;
+}
+</style>
+
 [params]
     body_classes = "Georgia"
     author = "Spencer Greenhalgh, PhD in Memes"
@@ -36,7 +42,7 @@ pygmentscodefencesguesssyntax = true
 # Social links
 [[params.social]]
     name = "University of Kentucky homepage"
-    icon = "fas fa-heart"
+    icon = "fas fa-university fa-2x"
     weight = 2
     url = "https://ci.uky.edu/sis/users/sherali-zeadally"
 [[params.social]]

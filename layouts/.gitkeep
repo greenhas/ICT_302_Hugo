@@ -1,7 +1,11 @@
 <html>
+<<<<<<< HEAD
 <style>
 body {
   background-color: yellow;
 }
 </style>
 </html>
+=======
+<body style="background-color:powderblue;">
+>>>>>>> parent of 9432048... background color change

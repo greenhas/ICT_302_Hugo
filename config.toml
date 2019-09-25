@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    body_classes = "Georgia"
+    body_classes = "Rockwell"
     author = "Spencer Greenhalgh, PhD in Memes"
     info = "REEEEEEEEEEEE"
     description = "Spencer Greenhalgh's sick meme page"

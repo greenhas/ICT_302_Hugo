@@ -13,12 +13,12 @@ body {
   color: $fg-color;
   background-color: $bg-color;
 	font-family: $text-font-family;
-	font-size: 60000em;
+	font-size: 1.6em;
 	font-weight: 300;
-  line-height: 700000em;
+  line-height: 1.8em;
   @media only screen and (max-device-width : 200px) {
-    font-size: 80000em;
-    line-height: 800000em;
+    font-size: 1.6em;
+    line-height: 1.6em;
   }
 }
 
